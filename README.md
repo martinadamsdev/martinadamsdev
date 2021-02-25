@@ -82,13 +82,13 @@ Thank you friends on Github. Cheer for me. Welcome to follow me.
 
 ## 开源项目
 
-*   [MartinResume](https://github.com/1024-cool/MartinResume) [https://github.com/1024\-cool/MartinResume](https://github.com/1024-cool/MartinResume)
+*   [MartinResume](https://github.com/1024-cool/MartinResume)
     *   基于 `Vue` 的 `Markdown` 在线简历项目
     *   `Vue` 全家桶 `Axios` `Markdown Editor` `Vue-i18n` `Star 77` `Fork 19`
-*   [EasyReading](https://github.com/martinageradams/EasyReading) [https://github.com/martinageradams/EasyReading](https://github.com/martinageradams/EasyReading)
+*   [EasyReading](https://github.com/martinageradams/EasyReading)
     *   基于 `Vue` 的 `EPUB` 电子书阅读器
     *   `Vue` 全家桶 `Axios` `Epubjs` `FastClick` `Star 9` `Fork 1`
-*   [Vue Cesium Template](https://github.com/martinageradams/vue-cesium-example) [https://github.com/martinageradams/vue\-cesium\-example](https://github.com/martinageradams/vue-cesium-example)
+*   [Vue Cesium Template](https://github.com/martinageradams/vue-cesium-example)
     *   基于 `Vue` 的 `Cesium` 基础脚手架
     *   `Vue` 全家桶 `Axios` `Cesium` `Star 5`
 
