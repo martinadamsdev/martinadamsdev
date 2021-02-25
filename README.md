@@ -109,6 +109,3 @@ Thank you friends on Github. Cheer for me. Welcome to follow me.
 # 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事
-
-# 公众号
-![前端围城](https://user-images.githubusercontent.com/51536312/109206254-96b9b800-77e2-11eb-8c58-72e045eba38d.png)
