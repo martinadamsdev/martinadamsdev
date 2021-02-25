@@ -10,7 +10,7 @@ Thank you friends on Github. Cheer for me. Welcome to follow me.
 
 # 个人信息
 
-*   王粒全 / 男 / `1994`
+*   Martin / 男 / `1994`
 *   沈阳工业大学 / 石油化工技术
 *   工作年限：两年多
 *   期望城市：北京/成都/上海/广州/深圳 均可
