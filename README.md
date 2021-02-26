@@ -4,20 +4,54 @@ Thank you friends on Github. Cheer for me. Welcome to follow me.
 
 # 联系方式
 
-*   微信号（ QQ ）：`746265594`
+*   微信：`746265594`
 
 # 个人信息
 
 *   Martin / 男 / `1994`
 *   沈阳工业大学 / 石油化工技术
 *   工作年限：两年多
-*   期望城市：北京/成都/上海/广州/深圳 均可
+*   期望城市：北京
 *   期望职位：前端开发工程师
 *   Github：[https://github.com/martinageradams](https://github.com/martinageradams)
 
 # 工作经历
 
-## 辽阳市奥航网络科技有限公司（ 2018 年 7 月 ~ 2019 年 11 月）
+## 北京数字冰雹信息技术有限公司（ 2020 年 10 月 ~ 至今）
+
+以下项目均签署了保密协议
+
+### 某所前端项目（ 2020 年 10 月 ~ 至今）（项目经理、技术经理）
+#### 选型
+
+*   `AngularJS` `jQuery` `ECharts` `Vue 全家桶` `ElementUI` `Git` `Gitea`
+
+#### 负责
+*   主导开发现场项目管理工作，对接客户需求，维护需求追踪文档
+*   前端 `AngularJS` 项目子系统的维护，迭代新增需求
+*   主导前端 `AngularJS` 项目子系统重构为 `Vue` 
+*   制定 `Vue 项目` 目录结构设计、代码规范
+*   组件项目现场内网开发环境
+*   使用 `Gitea` 搭建项目现场内网 `Git 服务`，实现团队的代码版本管理
+
+
+#### 难点
+
+*  前端 `AngularJS` 项目业务功能繁杂，经过多组人员迭代（原班人马部分离职）
+*  前期代码结构冗余，废弃代码、错误代码较多
+*  甲方需求极其不清晰，重构过程中遇到极大的阻碍
+
+#### 结果
+
+*  项目经过两个月的开发，两个月的重构，现有代码全部重构完成
+*  重构后的 `Vue` 项目， 项目迭代过程中舒适度得到极大的提升
+
+#### 评价
+
+*   项目重构 `Vue` 过程中，阅读了很多 `Vue` 项目代码，学习项目架构
+*   连续三个月荣获优秀新员工称号
+
+## 辽阳市奥航网络科技有限公司（ 2018 年 7 月 ~ 2019 年 11 月）（前端开发）
 
 以下均为政府项目，签署了保密协议
 
@@ -82,27 +116,26 @@ Thank you friends on Github. Cheer for me. Welcome to follow me.
 
 *   [MartinResume](https://github.com/1024-cool/MartinResume)
     *   基于 `Vue` 的 `Markdown` 在线简历项目
-    *   `Vue` 全家桶 `Axios` `Markdown Editor` `Vue-i18n` `Star 77` `Fork 19`
+    *   `Vue` 全家桶 `Axios` `Markdown Editor` `Vue-i18n` `Star 85` `Fork 20`
 *   [EasyReading](https://github.com/martinageradams/EasyReading)
     *   基于 `Vue` 的 `EPUB` 电子书阅读器
-    *   `Vue` 全家桶 `Axios` `Epubjs` `FastClick` `Star 9` `Fork 1`
+    *   `Vue 全家桶` `Axios` `Epubjs` `FastClick` `Star 10` `Fork 1`
 *   [Vue Cesium Template](https://github.com/martinageradams/vue-cesium-example)
     *   基于 `Vue` 的 `Cesium` 基础脚手架
-    *   `Vue` 全家桶 `Axios` `Cesium` `Star 5`
+    *   `Vue 全家桶` `Axios` `Cesium` `Star 12` `Fork 2`
 
 # 技能清单
 
 *   前端框架： `Vue`
 *   后端框架：`Express` `Koa2`
-*   GIS 框架：`Leaflet` `OpenLayers` `Cesium`
 *   UI 框架：`Bootstrap` `Element UI` `Vant`
 *   可视化框架：`Echarts` `AntV`
 *   前端工具：`Gulp` `SCSS` `Webpack`
-*   数据库：`MySQL` `MongDB`
+*   数据库：`MongDB`
 *   版本管理：`Git` `Gitee` `GitHub`
 *   接口管理：`Postman` `YApi`
 *   单元测试：`Jest`
-*   IDE 和编辑器：`WebStorm` `VS Code`
+*   开发工具：`WebStorm` `VS Code`
 
 # 致谢
 
