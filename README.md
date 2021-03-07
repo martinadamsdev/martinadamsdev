@@ -8,8 +8,8 @@
 * 框架：`Vue` 熟悉 `Element UI` 熟悉 `Vant` 熟悉 `Koa2` 了解 `Echarts` 熟悉
 * 工具：`Gulp` 了解 `SCSS` 熟悉 `Webpack` 熟悉
 * 版本：`Git` 熟悉 `Gitee` 熟悉 `GitHub` 熟悉
-## 开源项目 [Github](https://github.com/martinageradams)
-* [Markdown 简历编辑器](https://github.com/1024-cool/MartinResume) `Vue 全家桶` `Star 85` 
+## 开源项目
+* [简历编辑器](https://github.com/1024-cool/MartinResume) `Vue 全家桶` `Star 85` 
   - 使用`Markdown` `Vue` 编辑器组件实现的一个 `Markdown To PDF` 的简历编辑器
 ## 工作经历
 ### 北京数字冰雹（ 2020 年 10 月 ~ 至今）（前端开发、技术经理、项目经理）
