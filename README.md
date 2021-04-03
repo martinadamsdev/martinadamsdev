@@ -14,4 +14,7 @@
   - 使用`Markdown Vue` 编辑器组件实现的一个 `Markdown To PDF` 简历编辑器
 
 ## 完整履历
-- [可视化老王/前端老王](https://github.com/martinageradams/cv)
+- [前端老王](https://github.com/martinageradams/cv)
+
+## 博客
+- [1024](https://www.1024.cool)
