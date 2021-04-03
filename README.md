@@ -1,5 +1,6 @@
 ## 个人信息
-* 邮箱：`746265594@qq.com`
+* 微信: 746265594 / martinageradams
+* 邮箱：`746265594[at]qq.com`
 * [martinageradams](https://github.com/martinageradams/martinageradams) / 男 / 1994
 * 年限：2.5 年
 ## 技能清单
