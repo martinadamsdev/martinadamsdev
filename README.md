@@ -5,9 +5,8 @@
 * 年限：2.5 年
 * 
 ## 开源项目
-* [Markdown 简历编辑器](https://github.com/1024-cool/MartinResume) `Vue 全家桶` `Star 85` 
-  - 使用`Markdown Vue` 编辑器组件实现的一个 `Markdown To PDF` 简历编辑器
-
+* [Markdown 简历编辑器](https://github.com/1024-cool/MartinResume)
+* 
 ## 完整履历
 - [前端老王](https://github.com/martinageradams/cv)
 
