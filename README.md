@@ -11,7 +11,8 @@
 - [前端老王](https://github.com/martinageradams/cv)
 
 ## 活跃媒体
-- [公众号：前端围城](https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461)
+<img src="https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461" width="150" />
+
 ## 一枚站长
 - [1024 社区](https://www.1024.cool)
 - [内推](https://www.neitui.app)
