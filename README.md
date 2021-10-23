@@ -1,5 +1,16 @@
-* wechat: 746265594 / martinageradams （What do you want with me?）
-* mail：`746265594[at]qq.com`
-* [github](https://github.com/martinageradams/martinageradams) 
-* [easy-resume](https://resume.neitui.app)  A less is more online resume editor!
-* [1024](https://1024.cool) 
+## Hey, guys. I'm Martin Ager Adams.
+
+I am currently working in Shanghai. Glad you came to my GitHub homepage. If you have the opportunity, I hope to learn to write code with you.
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+<div class="half">
+  <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api?username=martinageradams&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinageradams&count_private=true&hide=scss,html,shell,css&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+</div>
