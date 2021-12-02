@@ -1,6 +1,8 @@
 ## &#x1f92b; Hey, guys. I'm Martin Ager Adams.
 
-I am currently working in Shanghai. Glad you came to my GitHub homepage. If you have the opportunity, I hope to learn to write code with you.
+I am currently working in Shanghai. Glad you came to my GitHub homepage. 
+
+If you have the opportunity, I hope to learn to write code with you.
 
 ## &#x1f92b; Languages
 
