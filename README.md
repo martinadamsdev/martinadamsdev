@@ -1,8 +1,12 @@
-## &#x1f92b; Hey, guys. I'm Martin Ager Adams.
+## &#x1f92b; Hey, guys. I'm Martin.
 
 I am currently working in Shanghai. Glad you came to my GitHub homepage. 
 
 If you have the opportunity, I hope to learn to write code with you.
+
+##  &#x1f92b; Remote
+
+[远程工作咨询一览表](https://docs.qq.com/form/page/DUENTaEljc3lmaER3?_w_tencentdocx_form=1)
 
 ## &#x1f92b; Languages
 
