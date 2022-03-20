@@ -9,7 +9,7 @@ If you have the opportunity, I hope to learn to write code with you.
 [远程工作咨询一览表](https://docs.qq.com/form/page/DUENTaEljc3lmaER3?_w_tencentdocx_form=1)
 
 <div>
-<code><img height="50" src="https://user-images.githubusercontent.com/51536312/159149724-6c454f14-1669-4d00-a1b6-d9626b40b0be.png"></code>
+<img height="150" src="https://user-images.githubusercontent.com/51536312/159150034-18eaafeb-cfd9-43d0-a9ec-9f01cddd7999.png">
 </div>
 
 ## &#x1f92b; Languages
