@@ -4,14 +4,6 @@ I am currently working in Shanghai. Glad you came to my GitHub homepage.
 
 If you have the opportunity, I hope to learn to write code with you.
 
-##  &#x1f92b; Remote
-
-[远程工作咨询一览表](https://docs.qq.com/form/page/DUENTaEljc3lmaER3?_w_tencentdocx_form=1)
-
-<div>
-<img height="150" src="https://user-images.githubusercontent.com/51536312/159150034-18eaafeb-cfd9-43d0-a9ec-9f01cddd7999.png">
-</div>
-
 ## &#x1f92b; Languages
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,6 +21,16 @@ If you have the opportunity, I hope to learn to write code with you.
   <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinageradams&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
 
+##  &#x1f92b; Remote
+
+- [Remote Jobs](https://github.com/martinageradams/remote-jobs)
+- [Remote FAQ](https://github.com/martinageradams/remote-faq)
+- [Remote Resume](https://github.com/martinageradams/remote-resume)
+
+
+[远程工作咨询一览表](https://docs.qq.com/form/page/DUENTaEljc3lmaER3?_w_tencentdocx_form=1)
+
+<img height="150" src="https://user-images.githubusercontent.com/51536312/159150034-18eaafeb-cfd9-43d0-a9ec-9f01cddd7999.png">
 
 ## &#x1f92b; Github Visitors
 
