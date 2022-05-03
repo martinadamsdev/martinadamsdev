@@ -1,8 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-I am currently working in Shanghai. Glad you came to my GitHub homepage. 
-
-If you have the opportunity, I hope to learn to write code with you.
+Co-Founder @bytefilp
 
 ## &#x1f92b; Languages
 
