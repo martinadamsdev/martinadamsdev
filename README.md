@@ -1,6 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-Co-Founder [@bytefilp](https://github.com/bytefilp)
+Co-founder & CEO of [@bytefilp](https://github.com/bytefilp)
 
 ## &#x1f92b; Languages
 
