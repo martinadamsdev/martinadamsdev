@@ -3,8 +3,9 @@
 Co-founder & CEO of [@bytefilp](https://github.com/bytefilp)
 
 
-Email: martinageradams@gmail.com
-LinkedIn: https://www.linkedin.com/in/martinageradams/
+- Email: martinageradams@gmail.com
+- LinkedIn: https://www.linkedin.com/in/martinageradams/
+- Twitter: https://twitter.com/martinageradams/
 
 ## &#x1f92b; Languages
 
