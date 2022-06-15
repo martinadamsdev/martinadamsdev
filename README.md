@@ -28,8 +28,6 @@ Co-founder & CEO of [@bytefilp](https://github.com/bytefilp)
 - [Remote Camp](https://beta.remote.camp)
 - [Remote Camp Discord](https://discord.gg/remotecamp)
 
-<img height="150" src="https://user-images.githubusercontent.com/51536312/159150034-18eaafeb-cfd9-43d0-a9ec-9f01cddd7999.png">
-
 ## &#x1f92b; Github Visitors
 
 [![Top Langs](https://profile-counter.glitch.me/sky5454/count.svg)](https://github.com/martinageradams)
