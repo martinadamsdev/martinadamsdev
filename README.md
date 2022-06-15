@@ -25,12 +25,9 @@ Co-founder & CEO of [@bytefilp](https://github.com/bytefilp)
 </div>
 
 ##  &#x1f92b; Remote
-- [Remote FAQ](https://github.com/martinageradams/remote-faq)
-- [Remote Jobs](https://github.com/martinageradams/remote-jobs)
-- [Remote Tools](https://github.com/martinageradams/remote-tools)
+- [Remote Camp Discord](https://discord.gg/remotecamp)
+- [Remote Camp](https://beta.remote.camp)
 - [Remote Resume](https://github.com/martinageradams/remote-resume)
-
-[远程工作咨询一览表](https://docs.qq.com/form/page/DUENTaEljc3lmaER3?_w_tencentdocx_form=1)
 
 <img height="150" src="https://user-images.githubusercontent.com/51536312/159150034-18eaafeb-cfd9-43d0-a9ec-9f01cddd7999.png">
 
