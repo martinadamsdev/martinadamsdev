@@ -1,6 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-Co-founder & CEO of [@ByteFilp](https://github.com/bytefilp) && [@RemoteCamp](https://github.com/remote-camps)
+Co-founder & CEO of [@ByteFilp](https://github.com/bytefilp) and [@RemoteCamp](https://github.com/remote-camps)
 
 
 - Email: martinageradams@gmail.com
