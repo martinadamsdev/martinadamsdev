@@ -24,9 +24,12 @@ Co-founder & CEO of [@bytefilp](https://github.com/bytefilp)
   <a href="https://github.com/martinageradams"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinageradams&count_private=true&hide=scss,css,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
 </div>
 
-##  &#x1f92b; Remote
-- [Remote Camp](https://beta.remote.camp)
-- [Remote Camp Discord](https://discord.gg/remotecamp)
+##  &#x1f92b; RemoteCamp
+- [Website](https://beta.remote.camp)
+- [Github](https://github.com/remote-camps)
+- [Twitter](https://twitter.com/remote_camp)
+- [Discord](https://discord.gg/remotecamp)
+- [Meduim](https://medium.com/remote-camp)
 
 ## &#x1f92b; Github Visitors
 
