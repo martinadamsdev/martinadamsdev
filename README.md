@@ -8,11 +8,10 @@ Co-founder & CEO of [@ByteFilp](https://github.com/bytefilp) [@RemoteCamp](https
 - Twitter: https://twitter.com/martinageradams/
 
 ##  &#x1f92b; RemoteCamp
-- [Website](https://beta.remote.camp)
 - [Github](https://github.com/remote-camps)
-- [Twitter](https://twitter.com/remote_camp)
-- [Discord](https://discord.gg/remotecamp)
-- [Meduim](https://medium.com/remote-camp)
+- [Website](https://beta.remote.camp)
+- Follow us on [Twitter](https://twitter.com/remote_camp)
+- Join us on [Discord](https://discord.gg/remotecamp)
 
 ## &#x1f92b; Languages
 
