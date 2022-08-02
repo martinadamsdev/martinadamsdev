@@ -1,6 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-Founder of [@ByteFilp](https://github.com/bytefilp) [@RemoteCamp](https://github.com/remote-camps)
+Founder of [@RemoteCampHQ](https://github.com/RemoteCampHQ)
 
 
 - Email: martinageradams@gmail.com
@@ -8,9 +8,9 @@ Founder of [@ByteFilp](https://github.com/bytefilp) [@RemoteCamp](https://github
 - Twitter: https://twitter.com/martinageradams/
 
 ##  &#x1f92b; RemoteCamp
-- [Github](https://github.com/remote-camps)
+- [Github](https://github.com/RemoteCampHQ)
 - [Website](https://beta.remote.camp)
-- Follow us on [Twitter](https://twitter.com/remote_camp)
+- Follow us on [Twitter](https://twitter.com/RemoteCampHQ)
 - Join us on [Discord](https://discord.gg/remotecamp)
 
 ## &#x1f92b; Languages
