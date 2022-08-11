@@ -2,8 +2,8 @@
 
 Founder of [@RemoteCampHQ](https://github.com/RemoteCampHQ)
 
-
-- Email: martinageradams@gmail.com
+- Blog: martinageradams.com
+- Email: martinageradams#gmail.com
 - LinkedIn: https://www.linkedin.com/in/martinageradams/
 - Twitter: https://twitter.com/martinageradams/
 
