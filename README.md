@@ -1,6 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-Founder of [@RemoteCampHQ](https://github.com/RemoteCampHQ)
+Co-Founder of [@RemoteCampHQ](https://github.com/RemoteCampHQ)
 
 - Blog: martinageradams.com
 - Email: martinageradams#gmail.com
