@@ -1,7 +1,3 @@
-[![](https://user-images.githubusercontent.com/51536312/185098161-58198ef7-48d1-4b05-97cd-115e14abf75d.png 'Data Science Career Skills')](https://imp.i384100.net/c/3569329/1320998/14726)
-
-<img height="0" width="0" src="https://imp.pxf.io/i/3569329/1320998/14726" style="position:absolute;visibility:hidden;" border="0" />
-
 ## &#x1f92b; Hey, guys. I'm Martin.
 
 Co-Founder of [@RemoteCampHQ](https://github.com/RemoteCampHQ)
