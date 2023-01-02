@@ -2,8 +2,6 @@
 
 - Blog: martinageradams.com
 - Email: martinageradams#gmail.com
-- LinkedIn: https://www.linkedin.com/in/martinageradams/
-- Twitter: https://twitter.com/martinageradams/
 
 ##  &#x1f92b; RemoteCamp
 - [Github](https://github.com/RemoteCampHQ)
