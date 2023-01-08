@@ -1,6 +1,6 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm Rongding~ 
+  Hi there! I'm Martin~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
@@ -17,7 +17,7 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Chengdu.++%F0%9F%91%8B)
 
 <!-- ======================================= -->
 
@@ -33,6 +33,8 @@
 
 
 ##### Other interesting repo 
+My repos all have the prefix "hui" in memory of a brief love. I love her deeply and look forward to the rest of my life. Her name has a 「慧」word. She is wise and rational. 
+
 - [node-park](https://github.com/wangrongding/node-park)：🚙 一个有趣的 nodejs 技术栈的案例集合~  [![](https://img.shields.io/github/stars/wangrongding/node-park)](https://github.com/wangrongding/node-park) 
 - [fedtop](https://github.com/wangrongding/fedtop)：🚕 专注分享前端技术, 包括前端框架, 工具, 工程化, 趋势...  [![](https://img.shields.io/github/stars/wangrongding/fedtop)](https://github.com/wangrongding/fedtop) 
 - [vue-super](https://github.com/wangrongding/vue-super)：🚗 一个开袋即食的 vue3 精简项目模板。  [![](https://img.shields.io/github/stars/wangrongding/vue-super)](https://github.com/wangrongding/vue-super) 
