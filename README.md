@@ -13,7 +13,7 @@
 <!-- ======================================= -->
 
 - 😄Read more about my [Blog](http://www.martinageradams.com)
-- 👯Follow me on [Twitter](https://twitter.com/martinageradams), [DevTo](https://dev.to/martinageradams), [Medium](https://medium.com/@martinageradams), [掘金](https://juejin.cn/user/131597125291368) and [知乎](https://www.zhihu.com/people/martinageradams)
+- 👯Follow me on [Twitter](https://twitter.com/martinageradams), [DevTo](https://dev.to/martinageradams), [Medium](https://medium.com/@martinageradams).
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
@@ -29,13 +29,13 @@ My repos all have the prefix "hui" in memory of a brief love. I love her deeply 
 
 #### Github repos 
 
-- [hui-vite-vanilla-library-boilerplate](https://github.com/martinageradams/hui-vite-vanilla-library-boilerplate)：🚙 一个有趣的 nodejs 技术栈的案例集合~  [![](https://img.shields.io/github/stars/martinageradams/hui-vite-vanilla-library-boilerplate)](https://github.com/martinageradams/hui-vite-vanilla-library-boilerplate) 
-- [hui-vite-react-library-boilerplate](https://github.com/martinageradams/hui-vite-react-library-boilerplate)：🚕 专注分享前端技术, 包括前端框架, 工具, 工程化, 趋势...  [![](https://img.shields.io/github/stars/martinageradams/hui-vite-react-library-boilerplate)](https://github.com/martinageradams/hui-vite-react-library-boilerplate) 
-- [hui-vite-vue-library-boilerplate](https://github.com/martinageradams/hui-vite-vue-library-boilerplate)：🚗 一个开袋即食的 vue3 精简项目模板。  [![](https://img.shields.io/github/stars/martinageradams/hui-vite-vue-library-boilerplate)](https://github.com/martinageradams/hui-vite-vue-library-boilerplate) 
-- [vue-super-admin](https://github.com/martinageradams/vue-super-admin)：🚗 一个适用于个人 ，团队协同开发的 vue3.2👆 精简管理后台模板。  [![](https://img.shields.io/github/stars/martinageradams/vue-super-admin)](https://github.com/martinageradams/vue-super-admin) 
+- [hui-vite-vanilla-library-boilerplate](https://github.com/martinageradams/hui-vite-vanilla-library-boilerplate)：🚙 A Vite - based Typescript library boilerplate. [![](https://img.shields.io/github/stars/martinageradams/hui-vite-vanilla-library-boilerplate)](https://github.com/martinageradams/hui-vite-vanilla-library-boilerplate) 
+- [hui-vite-react-library-boilerplate](https://github.com/martinageradams/hui-vite-react-library-boilerplate)：🚕 A boilerplate of React component library based on Vite and Typescript. [![](https://img.shields.io/github/stars/martinageradams/hui-vite-react-library-boilerplate)](https://github.com/martinageradams/hui-vite-react-library-boilerplate) 
+- [hui-vite-vue-library-boilerplate](https://github.com/martinageradams/hui-vite-vue-library-boilerplate)：🚗 A boilerplate of Vue 3 component library based on Vite and Typescript. [![](https://img.shields.io/github/stars/martinageradams/hui-vite-vue-library-boilerplate)](https://github.com/martinageradams/hui-vite-vue-library-boilerplate) 
+<!-- - [vue-super-admin](https://github.com/martinageradams/vue-super-admin)：🚗 一个适用于个人 ，团队协同开发的 vue3.2👆 精简管理后台模板。  [![](https://img.shields.io/github/stars/martinageradams/vue-super-admin)](https://github.com/martinageradams/vue-super-admin) 
 - [dev-boy](https://github.com/martinageradams/dev-boy)：🛠️An awesome terminal cli toolkit.(小而美的 cli 工具包)🧰  [![](https://img.shields.io/github/stars/martinageradams/dev-boy)](https://github.com/martinageradams/dev-boy)     [![](https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dev-boy)
 - [ding-trans](https://github.com/martinageradams/ding-trans)：🌈一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。  [![](https://img.shields.io/github/stars/martinageradams/ding-trans)](https://github.com/martinageradams/ding-trans)     [![](https://img.shields.io/npm/dt/ding-trans?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/ding-trans)
-- [prm-cli](https://github.com/martinageradams/prm-cli)：🦄快速切换包管理工具的镜像源  [![](https://img.shields.io/github/stars/martinageradams/prm-cli)](https://github.com/martinageradams/prm-cli)     [![](https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/prm-cli)
+- [prm-cli](https://github.com/martinageradams/prm-cli)：🦄快速切换包管理工具的镜像源  [![](https://img.shields.io/github/stars/martinageradams/prm-cli)](https://github.com/martinageradams/prm-cli)     [![](https://img.shields.io/npm/dt/prm-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/prm-cli) -->
 
 <!-- ======================================= -->
 
