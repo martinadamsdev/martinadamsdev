@@ -13,7 +13,7 @@
 <!-- ======================================= -->
 
 - 😄Read more about my [Blog](http://www.martinageradams.com)
-- 👯Follow me on [Twitter](https://twitter.com/martinageradams) ,[掘金](https://juejin.cn/user/131597125291368) or [知乎](https://www.zhihu.com/people/martinageradams)
+- 👯Follow me on [Twitter](https://twitter.com/martinageradams), [DevTo](https://dev.to/martinageradams), [Medium](https://medium.com/@martinageradams), [掘金](https://juejin.cn/user/131597125291368) and [知乎](https://www.zhihu.com/people/martinageradams)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
