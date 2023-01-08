@@ -1,6 +1,6 @@
 ## &#x1f92b; Hey, guys. I'm Martin.
 
-- Blog: martinageradams.com
+- Blog: [Click Here](https://github.com/martinageradams/blog/issues)
 - Email: martinageradams#gmail.com
 
 ##  &#x1f92b; RemoteCamp
