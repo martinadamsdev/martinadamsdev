@@ -14,7 +14,8 @@
 
 - 😄Read more about my [Blog](http://www.martinadams.dev)
 - 👯Follow me on [Stack Overflow](https://stackoverflow.com/users/12156529/martin-adams), [Twitter](https://twitter.com/martinadamsdev), [DevTo](https://dev.to/martinadamsdev), [Medium](https://medium.com/@martinadamsdev).
-- email: bWFydGluYWRhbXMuZGV2QGdtYWlsLmNvbQ== (base64) If you have a project, please contact me via email.
+- email: bWFydGluYWRhbXMuZGV2QGdtYWlsLmNvbQ== (base64)
+- If you have a project, please contact me via email.
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
