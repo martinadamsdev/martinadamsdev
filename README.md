@@ -13,13 +13,12 @@
 <!-- ======================================= -->
 
 - 😄Read more about my [Blog](http://www.martinageradams.com)
-- 👯Follow me on [Twitter](https://twitter.com/martinageradams), [DevTo](https://dev.to/martinageradams), [Medium](https://medium.com/@martinageradams).
+- 👯Follow me on [Twitter](https://twitter.com/martinadamsdev), [DevTo](https://dev.to/martinadamsdev), [Medium](https://medium.com/@martinadamsdev).
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Chengdu.++%F0%9F%91%8B)
 
-My repos all have the prefix "hui" in memory of a brief love. I love her deeply and look forward to the rest of my life. Her name has a "慧"(pronounced /huì/, [watch here](https://www.youtube.com/watch?v=2akd8TH_SW0&t=17s)) word. "慧" means cleverness, wisdom, sagacity and rationality in English.
 
 <!-- ======================================= -->
 
