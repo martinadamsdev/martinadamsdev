@@ -12,7 +12,7 @@
 
 <!-- ======================================= -->
 
-- 😄Read more about my [Blog](http://www.martinageradams.com)
+- 😄Read more about my [Blog](http://www.martinadams.dev)
 - 👯Follow me on [Twitter](https://twitter.com/martinadamsdev), [DevTo](https://dev.to/martinadamsdev), [Medium](https://medium.com/@martinadamsdev).
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
