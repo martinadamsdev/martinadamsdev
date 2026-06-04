@@ -17,6 +17,12 @@
 - email: bWFydGluYWRhbXMuZGV2QGdtYWlsLmNvbQ== (base64)
 - If you have a project, please contact me via email.
 
+<!-- ======================================= -->
+
+#### 🏭 What I'm building
+
+[**China Sourcing Agents**](https://china-sourcing-agents.com/) — an engineer-run sourcing service helping hardware startups, Amazon sellers, and IoT integrators source electronics, PCBA, and custom hardware from China. I built the whole site myself (Astro, 16 languages, edge-rendered). Practical guides on [sourcing electronics from China](https://china-sourcing-agents.com/guides/how-to-source-electronics-from-china), [PCB assembly](https://china-sourcing-agents.com/guides/pcb-assembly-china), [factory audits](https://china-sourcing-agents.com/services/factory-audit), and [import compliance (FCC/CE/RoHS)](https://china-sourcing-agents.com/guides/multi-market-certification-electronics).
+
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Chengdu.++%F0%9F%91%8B)
