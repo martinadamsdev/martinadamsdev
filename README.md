@@ -4,14 +4,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/martinageradams">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:martinageradams" alt="martinageradams" />
-  </div>
-</a>
-
-<!-- ======================================= -->
-
 - 😄Read more about my [Blog](http://www.martinadams.dev)
 - 👯Follow me on [Stack Overflow](https://stackoverflow.com/users/12156529/martin-adams), [Twitter](https://twitter.com/martinadamsdev), [DevTo](https://dev.to/martinadamsdev), [Medium](https://medium.com/@martinadamsdev).
 - email: bWFydGluYWRhbXMuZGV2QGdtYWlsLmNvbQ== (base64)
